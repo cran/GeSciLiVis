@@ -1,4 +1,4 @@
-9a1df924d98c6c038bac1d3a7d87fd7b *DESCRIPTION
+e27447d24965078e230a9dc892fbd4b0 *DESCRIPTION
 3ef33f3111f1c676d97c24b53ac002ad *NAMESPACE
 5b3f912d5462ebf60e443d984b15146c *R/human_official_gene_names_data.R
 ed69c79a7e20cd1ce4a8265beaf24a41 *R/mouse_official_gene_names_data.R
@@ -7,8 +7,8 @@ ed69c79a7e20cd1ce4a8265beaf24a41 *R/mouse_official_gene_names_data.R
 d2e1fa98db06a6739746bb2842c449b7 *data/human_official_gene_names.rda
 d9b45193dee72c4722a6385337cdabbe *data/mouse_official_gene_names.rda
 fcfadff0485c4f9de8c00a2227a60e12 *inst/doc/Getting_started_with_GeSciLiVis.R
-691ce37ecc0c9eaf5254c9bceb1bd8d8 *inst/doc/Getting_started_with_GeSciLiVis.Rmd
-60481d2f310241cf450052d8785e039a *inst/doc/Getting_started_with_GeSciLiVis.html
+14f2f834d6fdd30ae177ef92b376e98a *inst/doc/Getting_started_with_GeSciLiVis.Rmd
+f565a08e2afb3e593ff254379ec71c1e *inst/doc/Getting_started_with_GeSciLiVis.html
 2cf336d15de218e531af198619264993 *man/human_official_gene_names.Rd
 906ee8d70d61c28ca00829df975e7ad4 *man/mouse_official_gene_names.Rd
 d3798e5b143e60ca0091c86ab2f2a797 *man/pub_activity_plot.Rd
@@ -16,5 +16,5 @@ d3798e5b143e60ca0091c86ab2f2a797 *man/pub_activity_plot.Rd
 d41d8cd98f00b204e9800998ecf8427e *tests/testthat/test.R
 01de392b6bde87e333317ea98a2dcd77 *vignettes/Example_1_mouse.png
 3d57f459b41567659886d10956eccd52 *vignettes/Example_2_human.png
-691ce37ecc0c9eaf5254c9bceb1bd8d8 *vignettes/Getting_started_with_GeSciLiVis.Rmd
+14f2f834d6fdd30ae177ef92b376e98a *vignettes/Getting_started_with_GeSciLiVis.Rmd
 7d42dfb81dcfb2e960b7ef1f5010a891 *vignettes/test_figure.png
